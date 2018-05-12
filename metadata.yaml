@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '31204'
     url: http://www.gutenberg.org/2009/agents/31204
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/25277#The-Right-of-American-Slavery
 gutenberg_bookshelf: Slavery
 gutenberg_issued: '2008-05-01'
 gutenberg_type: Text
