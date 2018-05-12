@@ -1,0 +1,28 @@
+_repo: The-Right-of-American-Slavery_25277
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hoit, T. W. (True Worthy)
+    alias: Hoit, True Worthy
+    birthdate: 1815
+    gutenberg_agent_id: '31204'
+    url: http://www.gutenberg.org/2009/agents/31204
+description: ''
+gutenberg_bookshelf: Slavery
+gutenberg_issued: '2008-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25277'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Slavery -- United States'
+- !lcsh 'Slavery -- Justification'
+- !lcc 'E300'
+title: The Right of American Slavery
+url: http://www.gutenberg.org/ebooks/25277
